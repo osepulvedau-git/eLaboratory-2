@@ -1,0 +1,6 @@
+{
+  "name": "S&P 500 versus New Jobs Interaction",
+  "description": "An interactive progressive eLearning module recreating macro-economic slides comparing stock performance and job growth from 2016 to 2016, highlighting the AI decoupling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
